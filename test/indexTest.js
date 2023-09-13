@@ -1,3 +1,4 @@
+const { employee, updateEmployeeWithKeyAndValue } = require('../index.js');
 require ( './helpers.js' );
 
 describe('employees', function() {
